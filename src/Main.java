@@ -147,6 +147,7 @@ public class Main {
         for (int year0 = 0;year0 <= endOfPeriod;year0 = year0 + 79){
             if (year0 >= beginningOfPeriod){
                 System.out.println(year0);
+
             }
         }
     }
